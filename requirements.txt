@@ -1,0 +1,8 @@
+# CSC111 Winter 2023: Python libraries we'll be using for Films for You.
+
+# Testing and code checking
+python-ta~=2.4.2
+
+
+# Date Reading and Cleaning
+pandas~=1.5.3
